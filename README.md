@@ -1,4 +1,4 @@
-# Ejercicio1
+# Ejercicio
 Laboratorio de Computacion II
 ## Autor
 * **Cuenca Martinez** Mateo
